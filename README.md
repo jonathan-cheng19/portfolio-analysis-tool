@@ -17,11 +17,6 @@ Built with **Tkinter**, **Matplotlib**, and **yFinance**.
 
 ---
 
-## 🚀 Installation
-
-Clone this repo:
-```bash
-git clone https://github.com/jonathan-cheng19/portfolio-optimizer-gui.git
-cd portfolio-optimizer-gui
-
+## 🚀 Access
+Go to jonathan-cheng-portfolio-analysis-tool.streamlit.app
 
